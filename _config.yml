@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://wenhaowu.github.io"
+url: "https://username.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -149,7 +149,7 @@ staticman:
 # Truncates the excerpt to the specified number of words on the index page
 excerpt_length: 50
 
-# Character used to separate site title and description in HTML document title
+# Character used to separate site and description in HTML document title
 # and RSS feed title
 title-separator: "-"
 
