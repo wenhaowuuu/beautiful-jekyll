@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Visualization with Lezhi
+title: Data visualization
 subtitle: Think beyond what you see
 bigimg: /img/path.jpg
 tags: [books, test]
