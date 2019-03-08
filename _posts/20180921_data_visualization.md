@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Data Visualization with Lezhi
+subtitle: Think beyond what you see
 bigimg: /img/path.jpg
 tags: [books, test]
 ---
