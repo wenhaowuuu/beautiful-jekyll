@@ -3,4 +3,35 @@ layout: post
 title: Dear diary
 ---
 
-What is it with that Mary girl?  Dragging me to school every day. As if I had a choice.  What you don't hear in those nursery rhymes is that she starves me if I don't go to school with her; it's the only way I can stay alive!  I'm thinking about being adopted by Little Bo Peep, sure I may get lost, but anything is better than being with Mary and those little brats at school (shudder, shudder).
+
+
+新年伊始，不小心在砖工群中一个踉跄，撞坏了身边码工的腰。
+
+
+
+几年来断断续续，也不知道群策群力后，工友们把多少的设计师推去了隔壁的那支队伍做做卧底，反正目前看起来码砖双工一统江湖的日子还没过上。
+
+几年来说说做做，把有意思的事都试了试，咱还得在摸索千秋大业和兴趣如何快乐又实际的结合点，至少看起来不那么近，倒也不那么远。
+
+终南山上，活死人墓，码砖侠侣，绝迹江湖。这应该是那些码工里Nerdy程序员最俗套的写照，他们应该是最容易低调被揶揄，又最容易墓中暴发的那类分子。
+
+码砖老仙，法力无边，一统江湖，寿与天齐。砖工里的那些先锋建筑师最膨胀的心态，爱惹事的性子基本可以给个心比天高命薄如纸的结局，倒是其对江湖时下的敏感和大众需求的满足还能偶尔求得一角妖地。
+
+
+
+码砖二工本没有啥区别，都是老爷子造物笔下的分工配色。不结合也各自相安，码工务实有硬技能，砖工活杂有软技巧。最好能在新世界里找到队伍，攻城拔寨起来，一个前面望风，一个后面开炮。
+
+
+
+之前玩过聚会介绍型的pecha kucha，过年玩过金犬夺腊杯大赛。不管腻没腻，今年地方都没找落了，还能想着能玩点啥。
+
+
+
+看看当年对码砖的一点美好祝福：
+
+码砖大队TCB（Team Code Brick）是当代建筑、设计、工程师组成的社群，旨在开放地探讨新建筑及设计 --- 在时代变迁及科技变革中的角色和新兴的应用。码砖大队基于内部成员的特长做不定期线上及线下分享活动，同时也根据硅谷等地的科技行业新兴变革邀请举办业内外的交流探讨。不拘的职业视野，独立的当代探索，开放的设计生态圈是码砖大队的本色。码砖大队源起于2015年美国加州湾区华人建筑及设计师的阳台烧烤和聚会，逐渐根据成员对当代社会变革浪潮中的共同兴趣聚集起的松散实践团体。
+
+
+
+得了，这年头，就应该找好玩的去玩，管他那么多干嘛。
+
