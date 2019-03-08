@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to meet our meeters and see what we see
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+We are Codebrick@SF - a group of young professionals made of mostly architects and designers. We love thinking, discussing and sharing, quality and proactive thoughts revolving the evolution of design, with a special focus on integration of technologies into what we do:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I draw a great picture
+- I'm extremely loyal to open-minded souls
+- I look forward to hearing about funny but useful ideas
 
 What else do you need?
 
-### my history
+### who are we?
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I'm having some trouble remembering right now, so why don't you just watch [our map](http://codebrick.us/BrickBlock/) and it will answer **all** your questions.
