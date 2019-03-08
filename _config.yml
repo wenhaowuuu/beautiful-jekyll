@@ -25,7 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Us: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Conceptual Framework: "http://codebrick.us/sustainability_framework/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "https://github.com/wenhaowuuu"
