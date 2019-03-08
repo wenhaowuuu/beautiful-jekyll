@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dear diary
+title: New Year Resolution
 ---
 
 
