@@ -2,7 +2,6 @@
 layout: post
 title: 新年活动
 subtitle: Celebrating The Chineses New Year
-bigimg: /img/path.jpg
 tags: [books, test]
 ---
 
