@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: Beyond Data Visualization!
 image: /img/hello_world.jpeg
 ---
 
