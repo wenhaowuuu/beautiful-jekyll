@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: 崔恺大师与青年建筑师交流
+subtitle: Chat with National Master Architect
 bigimg: /img/path.jpg
 tags: [books, test]
 ---
