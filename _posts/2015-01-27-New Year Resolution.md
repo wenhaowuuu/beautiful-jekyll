@@ -5,6 +5,10 @@ title: New Year Resolution
 
 
 
+![Crepe](http://gdurl.com//RSuu)
+码砖大队新年活动合影
+
+
 新年伊始，不小心在砖工群中一个踉跄，撞坏了身边码工的腰。
 
 
