@@ -5,7 +5,7 @@ title: New Year Resolution
 
 
 
-![Crepe](http://gdurl.com//RSuu)
+(http://gdurl.com//RSuu)
 码砖大队新年活动合影
 
 
