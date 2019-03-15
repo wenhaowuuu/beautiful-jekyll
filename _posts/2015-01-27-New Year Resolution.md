@@ -4,10 +4,7 @@ title: New Year Resolution
 ---
 
 
-
-
-![Crepe](<a href="https://ibb.co/NW3czjY"><img src="https://i.ibb.co/SVxFpnv/IMG-9318.jpg" alt="IMG-9318" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>host images</a><br />)
-
+![Crepe](https://i.ibb.co/SVxFpnv/IMG-9318.jpg)
 
 
 新年伊始，不小心在砖工群中一个踉跄，撞坏了身边码工的腰。
