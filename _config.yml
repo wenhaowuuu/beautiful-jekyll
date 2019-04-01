@@ -25,7 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Us: "aboutme"
   Resources:
-    - Conceptual Framework: "http://codebrick.us/sustainability_framework/"
+    - Conceptual Framework: "http://codebrick.us/code_brick_framework/"
     - Wechat Articles: "https://mp.weixin.qq.com/s/rSeUc3Zhs40Hq5lADqV02g"
   Author's home: "https://github.com/wenhaowuuu"
 
