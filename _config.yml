@@ -13,7 +13,8 @@
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: [codebrick.us](http://codebrick.us/CodeBrickMap/)
+title: [codebrick.us]
+# (http://codebrick.us/CodeBrickMap/)
 
 # Short description of your site
 description: site for inspiring thoughts
