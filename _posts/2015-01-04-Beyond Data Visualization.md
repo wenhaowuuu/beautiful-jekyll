@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beyond Data Visualization!
+title: 数据可视化之外 Beyond Data Visualization!
 image: /img/hello_world.jpeg
 ---
 
