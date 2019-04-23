@@ -9,14 +9,6 @@ title: 新年小愿景 New Year Resolution
 
 新年伊始，不小心在砖工群中一个踉跄，撞坏了身边码工的腰。
 
-**Here is some bold text**
-
-## Here is a secondary heading
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
 
 
 几年来断断续续，也不知道群策群力后，工友们把多少的设计师推去了隔壁的那支队伍做做卧底，反正目前看起来码砖双工一统江湖的日子还没过上。
