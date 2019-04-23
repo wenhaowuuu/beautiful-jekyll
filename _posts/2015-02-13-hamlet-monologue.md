@@ -1,10 +1,9 @@
 ---
 layout: post
-title: To be
-subtitle: ... or not to be?
+title: 青年建筑师交流
+subtitle: Exchange and Sharing among Architects
 tags: [books, shakespeare, test]
 ---
-updated most recently 0308
 
 To be, or not to be--that is the question:
 Whether 'tis nobler in the mind to suffer
@@ -41,3 +40,7 @@ With this regard their currents turn awry
 And lose the name of action. -- Soft you now,
 The fair Ophelia! -- Nymph, in thy orisons
 Be all my sins remembered.
+
+![Architects](https://i.ibb.co/fxmkz5G/IMG-2962.jpg)
+
+![Discussion](https://i.ibb.co/P4Yj04d/IMG-2978.jpg)
