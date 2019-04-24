@@ -11,6 +11,7 @@ comments: true
 工作之余，湾区建筑师聚会，围绕幕墙的话题展开讨论分享，结合实操经验共同探究建筑幕墙参数化应用
 
 ![architecture_facade1](https://i.ibb.co/NKjBCpf/citic-fc-1575x900-som-01jpg.jpg)
+
 CITIC Financial Center, Shenzhen, China. Image courtesy of [Skidmore, Owings & Merrill LLP (SOM)] (https://www.som.com/projects/citic_financial_center)
 
 ![architecture_facade2](https://i.ibb.co/Sdt5PzQ/IMG-0855.jpg)
