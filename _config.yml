@@ -23,10 +23,11 @@ description: site for inspiring thoughts
 
 # List of links in the navigation bar
 navbar-links:
-  About Us: "aboutme"
-  Resources:
-    - Organization Structure: "https://wenhaowuuu.github.io/sustainability_framework/"
-    - Wechat Blog Page: "https://mp.weixin.qq.com/s/rSeUc3Zhs40Hq5lADqV02g"
+  关于我们 About Us: "aboutme"
+  资源链接 Resources:
+    - 成员地图 Members Map: "https://wenhaowuuu.github.io/CodeBrickMap/"     
+    - 小组架构 Organization Structure: "https://wenhaowuuu.github.io/sustainability_framework/"
+    - 微信公众号 Wechat Blog Page: "https://mp.weixin.qq.com/s/rSeUc3Zhs40Hq5lADqV02g"
   Author's home: "https://github.com/wenhaowuuu"
 
 # Image to show in the navigation bar - image must be a square (width = height)
