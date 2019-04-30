@@ -15,6 +15,6 @@ The Team Code Brick(TCB) is a group of architects, designers and engineers who a
 
 What else do you need?
 
-### who are we?
+### 码砖地图 who are we?
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [our map](https://wenhaowuuu.github.io/CodeBrickMap/) and it will answer **all** your questions.
