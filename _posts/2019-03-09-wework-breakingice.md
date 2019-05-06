@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Data visualization
-subtitle: Think beyond what you see
+title: 2019分享交流会@Wework
+subtitle: 聊聊大家做的有意思的事情
 bigimg: /img/path.jpg
 tags: [books, test]
 ---
