@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to meet our meeters and see what we see?
+subtitle: Why you'd want to meet my meeters and see what I see?
 ---
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

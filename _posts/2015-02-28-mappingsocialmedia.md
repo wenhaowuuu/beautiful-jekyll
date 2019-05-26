@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 幕墙浅谈及参数化应用
-subtitle: Curtain Wall Basics and Parameterization
+title: 社交媒体数据的空间可视化 </br> Mapping social media with big data
+subtitle: Using Flickr API and big data approach
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
